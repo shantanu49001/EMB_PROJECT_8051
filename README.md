@@ -13,11 +13,11 @@ This project is a simple calculator implemented on the 8051 microcontroller usin
 - Serial cable or USB-to-serial converter for connecting the microcontroller to the computer.
 
 **Flow Diagram**
-![Flow Diagram](flow_diagram.png)
+![Flow Diagram](https://github.com/shantanu49001/EMB_PROJECT_8051/blob/main/8051/2.CALCULATOR/flow.png)
 
 **Output Screenshots**
-![Screenshot 1](output1.png)
-![Screenshot 2](output2.png)
+![Screenshot 1](https://github.com/shantanu49001/EMB_PROJECT_8051/blob/main/8051/2.CALCULATOR/o1.png)
+![Screenshot 2](https://github.com/shantanu49001/EMB_PROJECT_8051/blob/main/8051/2.CALCULATOR/o3.jpg)
 
 **Usage**
 1. Power on the 8051 microcontroller.
